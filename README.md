@@ -11,3 +11,8 @@ cmd
 D:\GovGuide_chatbot_asisstant\myvent\Scripts\activate
 
 ```
+2/ Chạy chatbot
+
+```shell
+streamlit run frontend/app.py
+```
